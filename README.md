@@ -23,3 +23,7 @@ fis.conf.js
 Command:
 
     fis3 i18n
+    
+Demo: 先全局安装fis3,再安装fis3-command-i18n,有个demo目录，cd到该目录后执行
+
+    fis3 i18n
