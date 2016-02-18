@@ -1,0 +1,14 @@
+{
+  "name": "fis3-command-i18n",
+  "version": "1.0.0",
+  "description": "i18n for fis3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" "
+  },
+  "author": "qing.xiao",
+  "license": "ISC",
+  "dependencies": {
+    "tcl-i18n2": "^1.0.0"
+  }
+}
