@@ -1,10 +1,14 @@
 {
   "name": "fis3-command-i18n",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "i18n for fis3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TCL-MIE-CD/fis3-command-i18n"
   },
   "author": "qing.xiao",
   "license": "ISC",
